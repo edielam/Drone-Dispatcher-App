@@ -1,0 +1,60 @@
+2022-12-11 14:57:28,752 INFO  [scheduling-1] battery-capacity: 123: 75
+2022-12-11 14:57:28,752 INFO  [scheduling-1] battery-capacity: 456: 50
+2022-12-11 14:57:28,752 INFO  [scheduling-1] battery-capacity: 789: 25
+2022-12-11 14:57:28,752 INFO  [scheduling-1] battery-capacity: 225: 50
+2022-12-11 14:57:28,752 INFO  [scheduling-1] battery-capacity: 334: 25
+2022-12-11 14:57:33,764 INFO  [scheduling-1] battery-capacity: 123: 75
+2022-12-11 14:57:33,765 INFO  [scheduling-1] battery-capacity: 456: 50
+2022-12-11 14:57:33,765 INFO  [scheduling-1] battery-capacity: 789: 25
+2022-12-11 14:57:33,765 INFO  [scheduling-1] battery-capacity: 225: 50
+2022-12-11 14:57:33,765 INFO  [scheduling-1] battery-capacity: 334: 25
+2022-12-11 14:57:38,772 INFO  [scheduling-1] battery-capacity: 123: 75
+2022-12-11 14:57:38,773 INFO  [scheduling-1] battery-capacity: 456: 50
+2022-12-11 14:57:38,773 INFO  [scheduling-1] battery-capacity: 789: 25
+2022-12-11 14:57:38,773 INFO  [scheduling-1] battery-capacity: 225: 50
+2022-12-11 14:57:38,773 INFO  [scheduling-1] battery-capacity: 334: 25
+2022-12-11 15:00:29,422 INFO  [scheduling-1] battery-capacity: 123: 75
+2022-12-11 15:00:29,424 INFO  [scheduling-1] battery-capacity: 456: 50
+2022-12-11 15:00:29,424 INFO  [scheduling-1] battery-capacity: 789: 25
+2022-12-11 15:00:29,424 INFO  [scheduling-1] battery-capacity: 225: 50
+2022-12-11 15:00:29,424 INFO  [scheduling-1] battery-capacity: 334: 25
+2022-12-11 15:00:34,440 INFO  [scheduling-1] battery-capacity: 123: 75
+2022-12-11 15:00:34,440 INFO  [scheduling-1] battery-capacity: 456: 50
+2022-12-11 15:00:34,440 INFO  [scheduling-1] battery-capacity: 789: 25
+2022-12-11 15:00:34,440 INFO  [scheduling-1] battery-capacity: 225: 50
+2022-12-11 15:00:34,440 INFO  [scheduling-1] battery-capacity: 334: 25
+2022-12-11 15:00:39,453 INFO  [scheduling-1] battery-capacity: 123: 75
+2022-12-11 15:00:39,454 INFO  [scheduling-1] battery-capacity: 456: 50
+2022-12-11 15:00:39,457 INFO  [scheduling-1] battery-capacity: 789: 25
+2022-12-11 15:00:39,457 INFO  [scheduling-1] battery-capacity: 225: 50
+2022-12-11 15:00:39,457 INFO  [scheduling-1] battery-capacity: 334: 25
+2022-12-11 15:03:10,304 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000091: 75%
+2022-12-11 15:03:10,305 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000092: 50%
+2022-12-11 15:03:10,305 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000093: 25%
+2022-12-11 15:03:10,305 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000094: 50%
+2022-12-11 15:03:10,305 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000095: 25%
+2022-12-11 15:03:15,332 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000091: 75%
+2022-12-11 15:03:15,332 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000092: 50%
+2022-12-11 15:03:15,332 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000093: 25%
+2022-12-11 15:03:15,332 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000094: 50%
+2022-12-11 15:03:15,332 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000095: 25%
+2022-12-11 15:03:20,346 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000091: 75%
+2022-12-11 15:03:20,348 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000092: 50%
+2022-12-11 15:03:20,348 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000093: 25%
+2022-12-11 15:03:20,348 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000094: 50%
+2022-12-11 15:03:20,348 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000095: 25%
+2022-12-12 19:12:34,746 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000091: 75%
+2022-12-12 19:12:34,757 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000092: 50%
+2022-12-12 19:12:34,757 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000093: 25%
+2022-12-12 19:12:34,757 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000094: 50%
+2022-12-12 19:12:34,757 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000095: 25%
+2022-12-12 19:12:39,770 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000091: 75%
+2022-12-12 19:12:39,770 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000092: 50%
+2022-12-12 19:12:39,770 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000093: 25%
+2022-12-12 19:12:39,770 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000094: 50%
+2022-12-12 19:12:39,770 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000095: 25%
+2022-12-12 19:12:44,788 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000091: 75%
+2022-12-12 19:12:44,790 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000092: 50%
+2022-12-12 19:12:44,790 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000093: 25%
+2022-12-12 19:12:44,790 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000094: 50%
+2022-12-12 19:12:44,790 INFO  [scheduling-1] battery-capacity: Battery Capacity of drone A000095: 25%

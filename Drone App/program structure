@@ -1,0 +1,23 @@
+- DroneDispatchApp
+  - src
+    - main
+      - java
+        - com.dronecommunication
+          - components
+            - DataLoader.java
+          - model
+            - Drone.java
+            - Medication.java
+          - controller
+            - DroneController.java
+          - service
+            - DroneService.java
+            - PeriodicTaskService.java
+          - repository
+            - DroneRepository.java
+            - MedicationRepository.java
+          - DroneDispatchApp.java
+      - resources
+        - application.properties
+    - test
+  - pom.xml
