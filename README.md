@@ -19,7 +19,7 @@ This will compile the project, run the tests, and create a JAR file for the appl
 
 To run the application, use the following command:
 
-java -jar target/drone-dispatch-controller-0.0.1-SNAPSHOT.jar
+java -jar target/drone-dispatch.jar (PS: Jar File not ready at the moment)
 
 This will start the Spring Boot application and make the API available at `http://localhost:8080/api`.
 
