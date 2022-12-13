@@ -1,4 +1,4 @@
-# Drone Dispatch Controller
+# Drone Dispatcher App
 
 This project is a Spring Boot application that provides a REST API for communicating with a fleet of drones. The API allows clients to register drones, load medication onto drones, retrieve information about loaded medication and available drones, and check the battery level of a drone.
 
