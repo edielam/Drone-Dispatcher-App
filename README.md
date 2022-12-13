@@ -36,8 +36,8 @@ This will run all of the tests for the project and generate a test report in the
 
 The API provides the following endpoints for interacting with the drones:
 
-- `POST /drones` - Register a new drone. The request body should include the serial number, model, weight limit, battery capacity, and state of the drone.
-- `POST /drones/{droneId}/load` - Load medication onto a drone. The request body should include a list of medication items to load onto the drone.
-- `GET /drones/{droneId}/medication` - Get a list of the medication that is loaded onto a drone.
-- `GET /drones/available` - Get a list of the drones that are currently available for loading.
-- `GET /drones/{droneId}/battery` - Get the battery level of a drone.
+- `POST /register` - Register a new drone. The request body should include the serial number, model, weight limit, battery capacity, and state of the drone.
+- `POST /load/{droneId}` - Load medication onto a drone. The request body should include a list of medication items to load onto the drone.
+- `GET /medication/{droneId}` - Get a list of the medication that is loaded onto a drone.
+- `GET /available` - Get a list of the drones that are currently available for loading.
+- `GET /battery-level/{droneId}` - Get the battery level of a drone.
