@@ -4,8 +4,8 @@ This project is a Spring Boot application that provides a REST API for communica
 
 ## Requirements
 
-- Java 8 or later
-- Maven 3.6.0 or later
+- Java 17 or later
+- Maven 3.8.1 or later
 
 ## Building the Project
 
@@ -19,7 +19,7 @@ This will compile the project, run the tests, and create a JAR file for the appl
 
 To run the application, use the following command:
 
-java -jar target/drone-dispatch.jar (PS: Jar File not ready at the moment)
+java -jar target/dronecommunication-1.0.jar
 
 This will start the Spring Boot application and make the API available at `http://localhost:8080/api`.
 
