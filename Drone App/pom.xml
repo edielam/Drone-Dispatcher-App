@@ -8,11 +8,11 @@
 		<version>3.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dronecommunication</groupId>
-	<artifactId>dronecommunication</artifactId>
-	<version>1.0</version>
-	<name>DroneDispatchApp</name>
-	<description>A Resftul API service for commuincating with drones delivering medication</description>
+	<groupId>com.mastery</groupId>
+	<artifactId>javasb</artifactId>
+	<version>0.0.1</version>
+	<name>revise</name>
+	<description>Spring Boot Mastery</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -32,6 +32,11 @@
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
@@ -46,6 +51,7 @@
 			<artifactId>hibernate-validator</artifactId>
 			<version>8.0.0.Final</version>
 		</dependency>
+		
 	</dependencies>
 
 	<build>
