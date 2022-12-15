@@ -29,9 +29,3 @@ public class PeriodicTaskService {
         }
     }
 }
-// In this implementation, the PeriodicTaskService class has a
-// checkBatteryLevels method that is annotated with @Scheduled to
-//  indicate that it should be executed periodically according to the
-//  schedule defined in the application.properties file. The method
-//  uses the DroneService to retrieve a list of all the drones, and
-//  then iterates over the list to log the battery level for each drone.

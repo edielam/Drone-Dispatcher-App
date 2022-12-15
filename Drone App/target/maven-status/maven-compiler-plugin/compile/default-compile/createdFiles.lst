@@ -1,0 +1,11 @@
+com/dronecommunication/repository/MedicationRepository.class
+com/dronecommunication/service/DroneService.class
+com/dronecommunication/DroneDispatchApp.class
+com/dronecommunication/model/Drone$Model.class
+com/dronecommunication/repository/DroneRepository.class
+com/dronecommunication/service/PeriodicTaskService.class
+com/dronecommunication/components/AbstractEntity.class
+com/dronecommunication/model/Drone.class
+com/dronecommunication/controller/DroneController.class
+com/dronecommunication/model/Medication.class
+com/dronecommunication/model/Drone$DroneState.class

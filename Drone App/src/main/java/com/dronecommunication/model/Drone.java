@@ -16,7 +16,7 @@ public class Drone extends AbstractEntity {
     }
 
 
-    @Column(name = "SN", unique = true, length = 100, nullable = false)
+    @Column(name = "SN", unique = false, length = 100, nullable = false)
     private String serialNumber;
 
     @Column(name = "MODEL", nullable = false)
