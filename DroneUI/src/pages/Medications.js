@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import axios from 'axios';
 
 import Navbar from '../components/Navbar';
-import MedicationList from '../components/MedicationList';
+import LoadedMedications from '../components/LoadedMedications';
 import NewMedicationForm from '../components/NewMedicationForm';
 
 function Medications() {
@@ -48,7 +48,7 @@ function Medications() {
       ) : (
         <div>
           <h2>Available Medications</h2>
-          <MedicationList medications={medications} onSelect={handleSelectMedication} />
+          <LoadedMedications medications={medications} onSelect={handleSelectMedication} />
           <NewMedicationForm onAdd={handleAddMedication} />
         </div>
       )}
@@ -57,3 +57,29 @@ function Medications() {
 }
 
 export default Medications;
+
+// import React from 'react';
+// import NewMedicationForm from '../components/NewMedicationForm';
+// import LoadedMedications from '../components/LoadedMedications';
+
+// const Medications = () => {
+//   return (
+//     <div>
+//       <NewMedicationForm />
+//       <LoadedMedications />
+//     </div>
+//   );
+// };
+
+// Note that this implementation assumes that the NewMedicationForm and 
+// LoadedMedications components have been implemented as described in the 
+// previous answers.
+
+// The Medications page will display a form for uploading details of new 
+// medications and a list of the medications that are currently loaded onto 
+// drones. The NewMedicationForm component will handle creating a new 
+// medication by making a POST request to the API, and the LoadedMedications 
+// component will handle displaying the list of medications by making a GET 
+// request to the API.
+
+// export default Medications;
