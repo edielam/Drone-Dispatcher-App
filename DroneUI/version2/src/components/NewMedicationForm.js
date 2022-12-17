@@ -148,3 +148,4 @@ const NewMedicationForm = ({ droneId }) => {
     </form>
   );
   }  
+  export default NewMedicationForm;
