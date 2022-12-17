@@ -10,11 +10,21 @@ I would create a component for checking the loaded medication items for a given 
 I would create a component for checking available drones for loading. This component would make a GET request to the API to retrieve a list of drones that are currently in the IDLE or RETURNING state. It would display this list in a table or list format.
 Finally, I would create a component for checking the battery level for a given drone. This component would allow users to select a drone from a dropdown menu or search bar. It would make a GET request to the API to retrieve the current battery level of the selected drone.
 
+LOOK HERE!!!!!!
+Begin by coding the style.css file in the assets folder to define the overall look and feel of the app.
+Next, code the individual components that will be used throughout the app, such as the Navbar, DroneList, NewDroneForm, and DispatchInfo. These components should be stored in the components folder.
+Once the components have been coded, you can begin coding the individual pages of the app, such as the Home, Drones, Medications, and Dispatch pages. These pages should be stored in the pages folder.
+Finally, code the App.js file to define the overall structure and layout of the app, and link the individual pages and components together.
+Don't forget to also code the index.js file to define the root element for the app, and include any necessary dependencies from the package.json file.
+This is just one possible approach to coding the app, and the specific sequence may vary depending on your needs and preferences. However, following this general sequence should help you to build a well-organized and functional app using React and Material UI.
+
+
 Program Structure:
 my-app/
 ├── src/
 │   ├── assets/
-│   │   ├── styies.js
+│   │   ├── style.css
+│   │   ├── images/
 │   ├── components/
 │   │   ├── Navbar.js
 │   │   ├── DroneList.js
@@ -28,9 +38,7 @@ my-app/
 │   │   ├── Home.js
 │   │   ├── Drones.js
 │   │   ├── Medications.js
-│   │   ├── Dispatch.js
-│   │   └── Settings.js
+│   │   └── Dispatch.js
 │   ├── App.js
 │   └── index.js
 └── package.json
-
