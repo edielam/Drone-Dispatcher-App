@@ -11,7 +11,7 @@ const App = () => {
   return (
     <Router>
       <Navbar />
-      <div className="main-content">
+      <div >
         <Switch>
           <Route path="/drones">
             <Drones />

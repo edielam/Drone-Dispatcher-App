@@ -29,7 +29,6 @@ const Home = () => {
 
   return (
     <div>
-      <Navbar />
       <main className="home">
         <h1>Welcome to the Drone Dispatch App</h1>
         <section>

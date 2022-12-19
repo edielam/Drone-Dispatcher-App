@@ -14,7 +14,6 @@ const Medications = () => {
 
   return (
     <div>
-      <Navbar />
       <div className="main-content">
         <h1>Medications</h1>
         <DroneList

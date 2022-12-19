@@ -21,7 +21,7 @@ const DispatchInfo = ({ dispatchId }) => {
   }
 
   return (
-    <div className="dispatch-info">
+    <div >
       <h2>Dispatch Info</h2>
       <table>
         <tbody>

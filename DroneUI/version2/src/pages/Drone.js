@@ -25,10 +25,9 @@ const Drones = () => {
 
   return (
     <div>
-      <Navbar />
-      <main className="drones">
+      <main className="main-content">
         <h1>Drones</h1>
-        <DroneList drones={drones} />
+        <DroneList />
         <NewDroneForm />
       </main>
     </div>
